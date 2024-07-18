@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing (yet)
 - 📫 How to reach me : discord 1_bitjoganaminha
 - 😄 Pronouns: her/him
-- ⚡ Fun fact: im good on blood strike
+- ⚡ Fun fact: im good at gd
 
 <!---
 1bitkj/1bitkj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
