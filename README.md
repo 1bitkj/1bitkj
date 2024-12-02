@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @1bitkj
 - 👀 I’m interested in coding games
-- 🌱 I’m currently learning about godot and gdscript
+- 🌱 I’m currently learning about lua
 - 💞️ I’m looking to collaborate on nothing (yet)
 - 📫 How to reach me : discord 1_bitjoganaminha
-- 😄 Pronouns: her/him
+- 😄 Pronouns: her/his
 - ⚡ Fun fact: im good at gd
 
 <!---
